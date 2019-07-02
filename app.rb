@@ -7,6 +7,6 @@ class Application < Sinatra::Base
   end
 
   get '/greet' do
-    
+
   end
 end
